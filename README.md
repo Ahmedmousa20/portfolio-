@@ -1,2 +1,2 @@
 # portfolio-
-( html , css , bootstrap ) template
+Responsive Template( html , css , bootstrap ) 
